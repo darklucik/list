@@ -27,6 +27,7 @@ h2 {
     border-radius: 12px;
     display: block;
     margin-top: 20px;
+    cursor: pointer;
 }
 .listWrapper button:active {
     background-color: aqua;
